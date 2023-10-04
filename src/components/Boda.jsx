@@ -1,4 +1,7 @@
 import '../style_components/boda.css';
+import mer5758 from '../assets/MER_5758.jpg';
+import mer5845 from '../assets/MER_5845.jpg';
+import xolatlaco from '../assets/xolatlaco1.png';
 // import Map from './Map';
 
 const Boda = () => {
@@ -53,7 +56,7 @@ const Boda = () => {
                   de madera y un letrero que dice “XOLATLACO”.
                   <img
                     className="entrance-img"
-                    src="./public/xolatlaco1.png"
+                    src={xolatlaco}
                     alt="Puerta grande de madera en la entrada de Jardín Xolatlaco."
                   />
                 </li>
@@ -61,11 +64,7 @@ const Boda = () => {
             </div>
           </div>
           <div className="ceremonia-recepcion-img-container">
-            <img
-              className="ceremonia-recepcion-img"
-              src="./MER_5758.jpg"
-              alt="Nadia y Stefan en Oaxaca"
-            />
+            <img className="ceremonia-recepcion-img" src={mer5758} alt="Nadia y Stefan en Oaxaca" />
           </div>
         </div>
       </div>
@@ -73,7 +72,7 @@ const Boda = () => {
       <div className="dresscode-container">
         <div className="dresscode">
           <div className="dresscode-img-container">
-            <img className="dresscode-img" src="./MER_5845.jpg" alt="Nadia y Stefan en Oaxaca" />
+            <img className="dresscode-img" src={mer5845} alt="Nadia y Stefan en Oaxaca" />
           </div>
           <div className="dresscode-text">
             <h2 className="boda-h2">Código de vestimenta</h2>

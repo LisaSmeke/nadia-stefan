@@ -1,4 +1,5 @@
 import '../style_components/regalos.css';
+import ns136 from '../assets/ns-136.jpg';
 
 const Regalos = () => {
   return (
@@ -19,7 +20,7 @@ const Regalos = () => {
           </a>
         </div>
         <div className="regalos-img-container">
-          <img className="regalos-img" src="./NS-136.jpg" alt="Nadia y Stefan en Oaxaca" />
+          <img className="regalos-img" src={ns136} alt="Nadia y Stefan en Oaxaca" />
         </div>
       </div>
     </div>

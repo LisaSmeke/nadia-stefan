@@ -1,17 +1,15 @@
-import hotel1 from '../../public/hotels/1-amomoxtli.jpg';
-import hotel2 from '../../public/hotels/2-hostal-luz.jpg';
-import hotel3 from '../../public/hotels/3-casa-fernanda.jpg';
-import hotel4 from '../../public/hotels/4-posada-tepoz.jpg';
-import hotel5 from '../../public/hotels/5-buena-vibra.jpg';
-import hotel6 from '../../public/hotels/6-posada-valle.png';
-import hotel7 from '../../public/hotels/7-valle-mistico.jpg';
-import hotel8 from '../../public/hotels/8-quinta-gyo.jpg';
-import hotel9 from '../../public/hotels/9-amate-camp.jpg';
-import hotel10 from '../../public/hotels/10-real-valle.jpg';
-import hotel11 from '../../public/hotels/11-xacalan.jpg';
-import hotel12 from '../../public/hotels/12-pan-nuestro.jpg';
-import hotel13 from '../../public/hotels/13-orquideas.jpg';
-import hotel14 from '../../public/hotels/14-rincon-amate.jpg';
+import hotel1 from '../assets/hotels/1-amomoxtli.jpg';
+import hotel2 from '../assets/hotels/2-hostal-luz.jpg';
+import hotel3 from '../assets/hotels/3-casa-fernanda.jpg';
+import hotel4 from '../assets/hotels/4-posada-tepoz.jpg';
+import hotel5 from '../assets/hotels/5-buena-vibra.jpg';
+import hotel6 from '../assets/hotels/6-posada-valle.png';
+import hotel7 from '../assets/hotels/7-valle-mistico.jpg';
+import hotel8 from '../assets/hotels/8-quinta-gyo.jpg';
+import hotel9 from '../assets/hotels/9-amate-camp.jpg';
+import hotel10 from '../assets/hotels/10-real-valle.jpg';
+import hotel11 from '../assets/hotels/11-xacalan.jpg';
+import hotel12 from '../assets/hotels/12-pan-nuestro.jpg';
 
 export const hotelsData = [
   {
