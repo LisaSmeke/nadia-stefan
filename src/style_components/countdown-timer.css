@@ -1,6 +1,6 @@
 .countdown-text {
   color: var(--dark-green);
-  font-size: 26px;
+  font-size: 32px;
 }
 .countdownTimer {
   padding: 4% 0 0 0;
@@ -13,6 +13,7 @@
   margin: 0 auto;
   text-align: center;
   text-transform: uppercase;
+  font-size: 32px;
 }
 .countdownTimer .box {
   padding: 0 10px;
@@ -31,18 +32,10 @@
 /*Responsive mobile*/
 @media all and (min-width: 320px) and (max-width: 480px) {
   .countdown-text {
-    font-size: 14px;
-  }
-  .label {
-    font-size: 14px;
-  }
-  .value {
-    font-size: 14px;
-  }
-  .countdownTimer {
-    padding: 3% 0 0 0;
+    font-size: 16px;
   }
   .countdownTimer .content {
     gap: 1px;
+    font-size: 18px;
   }
 }
