@@ -49,7 +49,7 @@ const Boda = () => {
                 <li>
                   Habrá servicio de valet parking, pero te recomendamos llegar en taxi si vas a
                   tomar durante el fiestón. A la salida habrá servicio de camionetas hacia los
-                  hoteles en tres horarios: 12am, 1am, 2am.{' '}
+                  hoteles en tres horarios: 12:00am, 1:00am, 2:00am.{' '}
                 </li>
                 <li>
                   Al llegar, Jardín Xolatlaco se encontrará a mano derecha; verás una puerta grande
