@@ -29,9 +29,24 @@
 /*Responsive mobile*/
 @media all and (min-width: 320px) and (max-width: 480px) {
   .hero-h1 {
-    font-size: 30px;
+    font-size: 42px;
   }
   .hero-h2 {
-    font-size: 12px;
+    font-size: 18px;
+  }
+  .centered-text {
+    transform: translate(-50%, -38%);
+  }
+}
+/*Responsive mobile*/
+@media all and (min-width: 481px) and (max-width: 768px) {
+  .hero-h1 {
+    font-size: 52px;
+  }
+  .hero-h2 {
+    font-size: 18px;
+  }
+  .centered-text {
+    transform: translate(-50%, -38%);
   }
 }
