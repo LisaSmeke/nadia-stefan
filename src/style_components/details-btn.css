@@ -17,7 +17,7 @@
 /*Responsive mobile*/
 @media all and (min-width: 320px) and (max-width: 480px) {
   .details-btn {
-    font-size: 14px;
+    font-size: 16px;
     padding: 5px 10px;
     border: 1px solid var(--highlight);
   }
