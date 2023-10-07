@@ -26,7 +26,7 @@
 }
 .nav-list li {
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 500;
 }
 .nav-list a {
@@ -39,14 +39,33 @@
 
 /*Responsive mobile navbar*/
 @media all and (min-width: 320px) and (max-width: 480px) {
+  .navbar {
+    justify-content: space-around;
+  }
   .logo {
-    width: 40px;
+    width: 50px;
   }
   .nav-list {
-    padding: 5px;
+    padding: 0px;
+    margin: 0 0 2% 0;
+    justify-content: center;
+    gap: 0.7rem;
   }
   .nav-list li {
-    font-size: 10px;
-    font-weight: 300;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .navbar-inicio {
+    display: none;
+  }
+}
+
+/*Responsive tablet navbar*/
+@media all and (min-width: 481px) and (max-width: 768px) {
+  .logo {
+    width: 60px;
+  }
+  .navbar-inicio {
+    display: none;
   }
 }
