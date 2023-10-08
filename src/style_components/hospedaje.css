@@ -4,7 +4,7 @@
   margin: 0 auto;
 }
 .hospedaje-header {
-  padding: 1% 0;
+  padding: 1% 0 2% 0;
   margin: 0 auto;
 }
 .hospedaje-h1 {
@@ -13,21 +13,24 @@
 }
 .hospedaje-header-p {
   padding-top: 10px;
+  font-size: 26px;
 }
 .hospedaje-codigo {
   font-style: italic;
+  color: var(--highlight);
+  font-size: 26px;
 }
 
 /*Responsive mobile - Hospedaje*/
 @media all and (min-width: 320px) and (max-width: 480px) {
   .hospedaje-h1 {
-    font-size: 22px;
+    font-size: 32px;
   }
   .hospedaje-header-p {
     padding-top: 0px;
-    font-size: 14px;
+    font-size: 18px;
   }
   .hospedaje-codigo {
-    font-size: 14px;
+    font-size: 18px;
   }
 }

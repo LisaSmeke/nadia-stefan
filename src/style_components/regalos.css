@@ -13,6 +13,9 @@
   text-transform: uppercase;
   padding-bottom: 5px;
 }
+.regalos-info {
+  font-size: 26px;
+}
 .regalos-img-container {
   width: 50%;
 }
@@ -60,6 +63,6 @@
   .regalos-btn {
     font-size: 16px;
     border: 1px solid var(--highlight);
-    padding: 6px 12px;
+    padding: 5px 10px;
   }
 }
