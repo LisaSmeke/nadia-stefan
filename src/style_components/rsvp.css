@@ -7,9 +7,10 @@
   text-transform: uppercase;
   padding-bottom: 5px;
 }
-/* .rsvp-info {
-  font-size: 32px;
-} */
+.rsvp-info {
+  font-size: 26px;
+  padding-top: 1%;
+}
 .rsvp-img {
   width: 100%;
 }
@@ -20,9 +21,12 @@
     padding: 5%;
   }
   .rsvp-h2 {
-    font-size: 22px;
+    font-size: 32px;
   }
   .rsvp-info {
-    font-size: 14px;
+    font-size: 18px;
+  }
+  .rsvp-info-container {
+    padding: 0 5%;
   }
 }
