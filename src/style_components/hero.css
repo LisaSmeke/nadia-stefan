@@ -18,12 +18,12 @@
 }
 .hero-h1 {
   font-weight: 300;
-  font-size: 68px;
+  font-size: 82px;
   color: var(--main);
 }
 .hero-h2 {
   font-weight: 300;
-  font-size: 26px;
+  font-size: 30px;
   color: var(--dark-green);
 }
 /*Responsive mobile*/
