@@ -30,3 +30,19 @@
     padding: 0 5%;
   }
 }
+
+/*Responsive tablet - Rsvp*/
+@media all and (min-width: 481px) and (max-width: 768px) {
+  .rsvp-text {
+    padding: 5%;
+  }
+  .rsvp-h2 {
+    font-size: 36px;
+  }
+  .rsvp-info {
+    font-size: 22px;
+  }
+  .rsvp-info-container {
+    padding: 0 5%;
+  }
+}
