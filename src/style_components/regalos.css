@@ -66,3 +66,22 @@
     padding: 5px 10px;
   }
 }
+
+/*Tablet*/
+@media all and (min-width: 481px) and (max-width: 768px) {
+  .regalos-container {
+    flex-direction: column;
+  }
+  .regalos-text {
+    width: 100%;
+  }
+  /* .regalos-h2 {
+    font-size: 32px;
+  }
+  .regalos-info {
+    font-size: 18px;
+  } */
+  .regalos-img-container {
+    width: 100%;
+  }
+}
