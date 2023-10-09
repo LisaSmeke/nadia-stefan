@@ -39,3 +39,14 @@
     font-size: 18px;
   }
 }
+
+/*Responsive tablet*/
+@media all and (min-width: 481px) and (max-width: 768px) {
+  .countdown-text {
+    font-size: 22px;
+  }
+  .countdownTimer .content {
+    gap: 1px;
+    font-size: 22px;
+  }
+}
