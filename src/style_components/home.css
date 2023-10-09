@@ -24,22 +24,9 @@
   }
 }
 
-/* @media all and (min-width: 481px) and (max-width: 768px) {
-  .home {
-  }
-} */
-
-/* @media all and (min-width: 769px) and (max-width: 1024px) {
-  .home {
+/*Responsive tablet - Home*/
+@media all and (min-width: 481px) and (max-width: 768px) {
+  .when-where {
+    font-size: 22px;
   }
 }
-
-@media all and (min-width: 1025px) and (max-width: 1200px) {
-  .home {
-  }
-}
-
-@media all and (min-width: 1201px) {
-  .home {
-  }
-} */
