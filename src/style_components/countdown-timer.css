@@ -32,7 +32,7 @@
 /*Responsive mobile*/
 @media all and (min-width: 320px) and (max-width: 480px) {
   .countdown-text {
-    font-size: 16px;
+    font-size: 18px;
   }
   .countdownTimer .content {
     gap: 1px;

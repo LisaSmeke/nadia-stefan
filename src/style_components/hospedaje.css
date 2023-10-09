@@ -34,3 +34,17 @@
     font-size: 18px;
   }
 }
+
+/*Responsive tablet - Hospedaje*/
+@media all and (min-width: 481px) and (max-width: 768px) {
+  .hospedaje-h1 {
+    font-size: 36px;
+  }
+  .hospedaje-header-p {
+    padding-top: 0px;
+    font-size: 22px;
+  }
+  .hospedaje-codigo {
+    font-size: 22px;
+  }
+}
