@@ -214,3 +214,80 @@
     font-size: 16px;
   }
 }
+
+/*Responsive tablet - Boda*/
+@media all and (min-width: 481px) and (max-width: 768px) {
+  /*Boda header*/
+  .boda-header h1 {
+    font-size: 28px;
+  }
+  .boda-header p {
+    font-size: 22px;
+    padding-top: 4px;
+  }
+  .boda-header .signature {
+    padding-top: 4px;
+    font-size: 22px;
+  }
+  /*General title settings*/
+  .boda-h2 {
+    font-size: 36px;
+    /* padding-bottom: 5px; */
+  }
+  /*Ceremonia & Recepción*/
+  .ceremonia-recepcion {
+    flex-direction: column-reverse;
+  }
+  .ceremonia-recepcion-text {
+    width: 100%;
+    /* padding: 5%; */
+  }
+  .main-info {
+    font-size: 26px;
+  }
+  .ceremonia-recepcion-img-container {
+    width: 100%;
+  }
+  /*Map buttons*/
+  /* .map-btn {
+    font-size: 16px;
+    border: 1px solid var(--highlight);
+    padding: 5px 10px;
+    margin-top: 3%;
+    margin-right: 3%;
+  } */
+  /*Dresscode*/
+  .dresscode {
+    flex-direction: column-reverse;
+    background-color: var(--lighter);
+  }
+  .dresscode-text {
+    width: 100%;
+    /* padding: 5%; */
+  }
+  .dresscode-img-container {
+    width: 100%;
+  }
+  /*UL style*/
+  .boda-ul {
+    margin-top: 3%;
+  }
+  .boda-ul li:before {
+    height: 10px;
+    width: 10px;
+    background-size: 10px;
+    /* margin-right: 5px; */
+  }
+  .boda-ul li {
+    font-size: 20px;
+    /* padding: 5px 0; */
+  }
+  /*Notes*/
+  .note {
+    padding-top: 1%;
+    font-size: 20px;
+  }
+  .address {
+    font-size: 20px;
+  }
+}
