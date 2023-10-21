@@ -1,5 +1,5 @@
 import '../style_components/boda.css';
-import mer5758 from '../assets/MER_5758.jpg';
+import mer5758 from '../assets/MER_5758_small.jpg';
 import mer5845 from '../assets/MER_5845.jpg';
 import xolatlaco from '../assets/xolatlaco1.png';
 // import Map from './Map';
