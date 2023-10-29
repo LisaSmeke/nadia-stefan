@@ -1,5 +1,5 @@
 import '../style_components/hero.css';
-import ns199 from '../assets/ns-199.jpg';
+import ns199 from '../assets/ns-199_small.jpg';
 
 const Hero = () => {
   return (
