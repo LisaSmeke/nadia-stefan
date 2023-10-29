@@ -1,5 +1,5 @@
 import '../style_components/rsvp.css';
-import ns243 from '../assets/ns-243.jpg';
+import ns243 from '../assets/ns-243_small.jpg';
 
 const Rsvp = () => {
   return (
