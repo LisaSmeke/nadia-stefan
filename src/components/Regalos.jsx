@@ -1,5 +1,5 @@
 import '../style_components/regalos.css';
-import ns136 from '../assets/NS-136.jpg';
+import ns136 from '../assets/NS-136_small.jpg';
 
 const Regalos = () => {
   return (
