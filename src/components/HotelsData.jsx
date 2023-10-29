@@ -1,4 +1,4 @@
-import hotel1 from '../assets/hotels/1-amomoxtli.jpg';
+import hotel1 from '../assets/hotels/1-amomoxtli_small.jpg';
 import hotel2 from '../assets/hotels/2-hostal-luz.jpg';
 import hotel3 from '../assets/hotels/3-casa-fernanda.jpg';
 import hotel4 from '../assets/hotels/4-posada-tepoz.jpg';
