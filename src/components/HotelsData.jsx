@@ -3,7 +3,7 @@ import hotel2 from '../assets/hotels/2-hostal-luz_small.jpg';
 import hotel3 from '../assets/hotels/3-casa-fernanda.jpg';
 import hotel4 from '../assets/hotels/4-posada-tepoz_small.jpg';
 import hotel5 from '../assets/hotels/5-buena-vibra_small.jpg';
-import hotel6 from '../assets/hotels/6-posada-valle_small.png';
+import hotel6 from '../assets/hotels/6-posada-valle_small.jpg';
 import hotel7 from '../assets/hotels/7-valle-mistico_small.jpg';
 import hotel8 from '../assets/hotels/8-quinta-gyo_small.jpg';
 import hotel9 from '../assets/hotels/9-amate-camp_small.jpg';
